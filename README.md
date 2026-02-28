@@ -1,5 +1,7 @@
 # HexString (Base16 编解码工具)
 
+[中文版] | [English Version](README_EN.md)
+
 这是一个轻量级的 C++ 工具库，用于实现数据的 Base16（十六进制）编码与解码。
 
 ## 功能特点
