@@ -1,0 +1,16 @@
+# Prerequisites
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+out/
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
